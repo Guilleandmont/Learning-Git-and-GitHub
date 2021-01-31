@@ -27,4 +27,5 @@ $ git checkout <branch_name> : switch to the branch
 
 //Branches can be merged with the master with git merge
 $ git merge <branch_name>
-	
+
+//Once the repository is uploaded to GitHub, you can use $ git push to update the repository
