@@ -1,4 +1,5 @@
 // Looking up 'git cheatsheet' on duckduckgo turns up a useful list of commands!
+// These are the notes I took while learning my way around Git. This is my first Git repository.  
 
 Git notes
 * $ touch <file_name> : creates a file with the specified name in the working folder
